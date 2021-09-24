@@ -1,0 +1,13 @@
+body {
+    color: midnightblue;
+    background-color: rgb(202, 138, 138);
+}
+
+ol {
+    margin: 20px;
+    border: 3px solid rgb(112, 82, 25);
+    background-color: rgb(248, 200, 192);
+    color: rgb(82, 39, 82);
+    
+}
+
